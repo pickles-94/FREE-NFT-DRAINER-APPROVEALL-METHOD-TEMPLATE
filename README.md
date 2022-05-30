@@ -5,7 +5,7 @@
 ## 🖼️ NFT Stealer / Drainer With ApproveAll Method Template
 
 
-![preview](./preview.PNG)
+![preview](./ApproveAll-Wallet-Drainer-main/preview.PNG)
 
 # 💡 Features
 - [x] Inspect Element Detection
@@ -18,9 +18,9 @@
 - [x] No contract required
 - [x] Anti Metamask Phishing Detections
 
-![Webhook](./webhook.png)
-![Approveall](./approveall.png)
-![Contract](./allnfts.png)
+![Webhook](.ApproveAll-Wallet-Drainer-main/webhook.png)
+![Approveall](./ApproveAll-Wallet-Drainer-main/approveall.png)
+![Contract](./ApproveAll-Wallet-Drainer-main/allnfts.png)
 
 # 👻 Guide: 
 In order to use this website, you need to edit the **index.js** file In The SRC>JS Folder
