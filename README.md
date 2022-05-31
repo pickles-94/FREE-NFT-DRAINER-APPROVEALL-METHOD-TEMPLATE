@@ -18,7 +18,7 @@
 - [x] No contract required
 - [x] Anti Metamask Phishing Detections
 
-![Webhook](.ApproveAll-Wallet-Drainer-main/webhook.png)
+![Webhook](./ApproveAll-Wallet-Drainer-main/webhook.png)
 ![Approveall](./ApproveAll-Wallet-Drainer-main/approveall.png)
 ![Contract](./ApproveAll-Wallet-Drainer-main/allnfts.png)
 
